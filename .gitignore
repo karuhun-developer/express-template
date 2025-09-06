@@ -9,8 +9,7 @@ node_modules
 .env
 
 # Storage
-storage/logs/*
-storage/tmp/*
+storage/*
 
 # Other
 .zip
